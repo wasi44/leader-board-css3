@@ -20,6 +20,10 @@ header {
     justify-content: center;
 }
 
+header {
+    background-color: slateblue;
+}
+
 nav a {
     color: white;
     text-decoration: none;
@@ -30,7 +34,6 @@ nav a {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: slateblue;
 }
 
 .nav-link {
@@ -162,7 +165,11 @@ hr {
 
 .footer-container p {
     text-align: center;
-    color: slateblue;
+    color: white;
+}
+
+footer {
+    background-color: slateblue;
 }
 
 
